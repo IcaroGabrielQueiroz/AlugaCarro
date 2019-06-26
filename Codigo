@@ -9,7 +9,7 @@ lista = [0.0, 0.0]
 def click_btnComeçarAlugueldodge():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -50,7 +50,7 @@ def click_btnComeçarAlugueldodge():
 def click_btnComeçarAluguelfazer():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -91,7 +91,7 @@ def click_btnComeçarAluguelfazer():
 def click_btnComeçarAluguelcg160():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -132,7 +132,7 @@ def click_btnComeçarAluguelcg160():
 def click_btnComeçarAluguelbiz():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -173,7 +173,7 @@ def click_btnComeçarAluguelbiz():
 def click_btnComeçarAluguelblazer():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -214,7 +214,7 @@ def click_btnComeçarAluguelblazer():
 def click_btnComeçarAluguellongitude():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -255,7 +255,7 @@ def click_btnComeçarAluguellongitude():
 def click_btnComeçarAlugueleco():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -296,7 +296,7 @@ def click_btnComeçarAlugueleco():
 def click_btnComeçarAluguelduster():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -378,7 +378,7 @@ def click_btnComeçarAluguelranger():
 def click_btnComeçarAluguels10():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -419,7 +419,7 @@ def click_btnComeçarAluguels10():
 def click_btnComeçarAluguelstrada():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -460,7 +460,7 @@ def click_btnComeçarAluguelstrada():
 def click_btnComeçarAlugueloroch():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -501,7 +501,7 @@ def click_btnComeçarAlugueloroch():
 def click_btnComeçarAluguelspin():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -542,7 +542,7 @@ def click_btnComeçarAluguelspin():
 def click_btnComeçarAlugueldoblo():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -583,7 +583,7 @@ def click_btnComeçarAlugueldoblo():
 def click_btnComeçarAluguelsentra():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -624,7 +624,7 @@ def click_btnComeçarAluguelsentra():
 def click_btnComeçarAluguellancer():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -665,7 +665,7 @@ def click_btnComeçarAluguellancer():
 def click_btnComeçarAluguelallspace():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -706,7 +706,7 @@ def click_btnComeçarAluguelallspace():
 def click_btnComeçarAluguelcruze():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -747,7 +747,7 @@ def click_btnComeçarAluguelcruze():
 def click_btnComeçarAlugueljetta():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -788,7 +788,7 @@ def click_btnComeçarAlugueljetta():
 def click_btnComeçarAluguelcorola():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -829,7 +829,7 @@ def click_btnComeçarAluguelcorola():
 def click_btnComeçarAluguelsandero():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -870,7 +870,7 @@ def click_btnComeçarAluguelsandero():
 def click_btnComeçarAluguelfocus():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -911,7 +911,7 @@ def click_btnComeçarAluguelfocus():
 def click_btnComeçarAluguelversa():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -952,7 +952,7 @@ def click_btnComeçarAluguelversa():
 def click_btnComeçarAluguelvoyage():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -993,7 +993,7 @@ def click_btnComeçarAluguelvoyage():
 def click_btnComeçarAluguelhb20s():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -1034,7 +1034,7 @@ def click_btnComeçarAluguelhb20s():
 def click_btnComeçarAluguelprisma():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -1075,7 +1075,7 @@ def click_btnComeçarAluguelprisma():
 def click_btnComeçarAluguelhb20():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -1116,7 +1116,7 @@ def click_btnComeçarAluguelhb20():
 def click_btnComeçarAluguelonix():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -1157,7 +1157,7 @@ def click_btnComeçarAluguelonix():
 def click_btnComeçarAluguelka():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -1198,7 +1198,7 @@ def click_btnComeçarAluguelka():
 def click_btnComeçarAluguelgol():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -1239,7 +1239,7 @@ def click_btnComeçarAluguelgol():
 def click_btnComeçarAluguelhatch():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -1280,7 +1280,7 @@ def click_btnComeçarAluguelhatch():
 def click_btnComeçarAluguellike():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -1321,7 +1321,7 @@ def click_btnComeçarAluguellike():
 def click_btnComeçarAluguelmobi():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -1360,7 +1360,7 @@ def click_btnComeçarAluguelmobi():
 
 def click_btnespecificacoesdodge():
     root19 = Tk()
-    root19.geometry("750x680+1000+100")
+    root19.geometry("750x680+330+50")
     root19["bg"] = "darkslategray"
 
     lblespe1 = Label(root19, text="ESPECIFICAÇÕES DA MOTO: DODGE TOMAHAWK", font=("arial", 16, "bold"),
@@ -1375,7 +1375,7 @@ def click_btnespecificacoesdodge():
 
 def click_btnespecificacoesfazer():
     root19 = Tk()
-    root19.geometry("750x680+1000+100")
+    root19.geometry("750x680+330+50")
     root19["bg"] = "darkslategray"
 
     lblespe1 = Label(root19, text="ESPECIFICAÇÕES DA MOTO: YAMAHA FAZER", font=("arial", 16, "bold"),
@@ -1395,7 +1395,7 @@ def click_btnespecificacoesfazer():
 
 def click_btnespecificacoesbiz():
     root19 = Tk()
-    root19.geometry("750x680+1000+100")
+    root19.geometry("750x680+330+50")
     root19["bg"] = "darkslategray"
 
     lblespe1 = Label(root19, text="ESPECIFICAÇÕES DA MOTO: HONDA BIZ", font=("arial", 16, "bold"), bg="darkslategray",
@@ -1415,7 +1415,7 @@ def click_btnespecificacoesbiz():
 
 def click_btnespecificacoescg():
     root19 = Tk()
-    root19.geometry("750x680+1000+100")
+    root19.geometry("750x680+330+50")
     root19["bg"] = "darkslategray"
 
     lblespe1 = Label(root19, text="ESPECIFICAÇÕES DA MOTO: HONDA CG 160", font=("arial", 16, "bold"),
@@ -1435,7 +1435,7 @@ def click_btnespecificacoescg():
 
 def click_btnespecificacoestrial():
     root19 = Tk()
-    root19.geometry("750x680+1000+100")
+    root19.geometry("750x680+330+50")
     root19["bg"] = "darkslategray"
 
     lblespe1 = Label(root19, text="ESPECIFICAÇÕES DO CARRO: CHEVROLET TRIALBLAZER", font=("arial", 16, "bold"),
@@ -1456,7 +1456,7 @@ def click_btnespecificacoestrial():
 
 def click_btnespecificacoeslongitude():
     root19 = Tk()
-    root19.geometry("750x680+1000+100")
+    root19.geometry("750x680+330+50")
     root19["bg"] = "darkslategray"
 
     lblespe1 = Label(root19, text="ESPECIFICAÇÕES DO CARRO: JEEP COMPASS LONGITUDE", font=("arial", 16, "bold"),
@@ -1477,7 +1477,7 @@ def click_btnespecificacoeslongitude():
 
 def click_btnespecificacoeseco():
     root19 = Tk()
-    root19.geometry("750x680+1000+100")
+    root19.geometry("750x680+330+50")
     root19["bg"] = "darkslategray"
 
     lblespe1 = Label(root19, text="ESPECIFICAÇÕES DO CARRO: FORD ECOSPORT", font=("arial", 16, "bold"),
@@ -1498,7 +1498,7 @@ def click_btnespecificacoeseco():
 
 def click_btnespecificacoesduster():
     root19 = Tk()
-    root19.geometry("750x680+1000+100")
+    root19.geometry("750x680+330+50")
     root19["bg"] = "darkslategray"
 
     lblespe1 = Label(root19, text="ESPECIFICAÇÕES DO CARRO: RENAULT DUSTER", font=("arial", 16, "bold"),
@@ -1520,7 +1520,7 @@ def click_btnespecificacoesduster():
 
 def click_btnespecificacoesranger():
     root19 = Tk()
-    root19.geometry("750x680+1000+100")
+    root19.geometry("750x680+330+50")
     root19["bg"] = "darkslategray"
 
     lblespe1 = Label(root19, text="ESPECIFICAÇÕES DO CARRO: FORD RANGER", font=("arial", 16, "bold"),
@@ -1541,7 +1541,7 @@ def click_btnespecificacoesranger():
 
 def click_btnespecificacoess10():
     root19 = Tk()
-    root19.geometry("750x680+1000+100")
+    root19.geometry("750x680+330+50")
     root19["bg"] = "darkslategray"
 
     lblespe1 = Label(root19, text="ESPECIFICAÇÕES DO CARRO: CHEVROLET GM S10", font=("arial", 16, "bold"),
@@ -1563,7 +1563,7 @@ def click_btnespecificacoess10():
 
 def click_btnespecificacoesstrada():
     root19 = Tk()
-    root19.geometry("750x680+1000+100")
+    root19.geometry("750x680+330+50")
     root19["bg"] = "darkslategray"
 
     lblespe1 = Label(root19, text="ESPECIFICAÇÕES DO CARRO: FIAT STRADA", font=("arial", 16, "bold"),
@@ -1584,7 +1584,7 @@ def click_btnespecificacoesstrada():
 
 def click_btnespecificacoesoroch():
     root19 = Tk()
-    root19.geometry("750x680+1000+100")
+    root19.geometry("750x680+330+50")
     root19["bg"] = "darkslategray"
 
     lblespe1 = Label(root19, text="ESPECIFICAÇÕES DO CARRO: RENAULT OROCH", font=("arial", 16, "bold"),
@@ -1605,7 +1605,7 @@ def click_btnespecificacoesoroch():
 
 def click_btnespecificacoesspin():
     root19 = Tk()
-    root19.geometry("750x680+1000+100")
+    root19.geometry("750x680+330+50")
     root19["bg"] = "darkslategray"
 
     lblespe1 = Label(root19, text="ESPECIFICAÇÕES DO CARRO: CHEVROLET SPIN", font=("arial", 16, "bold"),
@@ -1626,7 +1626,7 @@ def click_btnespecificacoesspin():
 
 def click_btnespecificacoesdoblo():
     root19 = Tk()
-    root19.geometry("750x680+1000+100")
+    root19.geometry("750x680+330+50")
     root19["bg"] = "darkslategray"
 
     lblespe1 = Label(root19, text="ESPECIFICAÇÕES DO CARRO: FIAT DOBLO", font=("arial", 16, "bold"),
@@ -1647,7 +1647,7 @@ def click_btnespecificacoesdoblo():
 
 def click_btnespecificacoessentra():
     root19 = Tk()
-    root19.geometry("750x680+1000+100")
+    root19.geometry("750x680+330+50")
     root19["bg"] = "darkslategray"
 
     lblespe1 = Label(root19, text="ESPECIFICAÇÕES DO CARRO: NISSAN SENTRA", font=("arial", 16, "bold"),
@@ -1668,7 +1668,7 @@ def click_btnespecificacoessentra():
 
 def click_btnespecificacoeslancer():
     root36 = Tk()
-    root36.geometry("750x680+1000+100")
+    root36.geometry("750x680+330+50")
     root36["bg"] = "darkslategray"
 
     lblespe1 = Label(root36, text="ESPECIFICAÇÕES DO CARRO: MITSUBISHI LANCER", font=("arial", 16, "bold"),
@@ -1690,7 +1690,7 @@ def click_btnespecificacoeslancer():
 
 def click_btnespecificacoesallspace():
     root35 = Tk()
-    root35.geometry("750x680+1000+100")
+    root35.geometry("750x680+330+50")
     root35["bg"] = "darkslategray"
 
     lblespe1 = Label(root35, text="ESPECIFICAÇÕES DO CARRO: TIGUAL ALLSPACE", font=("arial", 16, "bold"),
@@ -1712,7 +1712,7 @@ def click_btnespecificacoesallspace():
 
 def click_btnespecificacoescruze():
     root34 = Tk()
-    root34.geometry("750x680+1000+100")
+    root34.geometry("750x680+330+50")
     root34["bg"] = "darkslategray"
 
     lblespe1 = Label(root34, text="ESPECIFICAÇÕES DO CARRO: CREVROLET CRUZE", font=("arial", 16, "bold"),
@@ -1733,7 +1733,7 @@ def click_btnespecificacoescruze():
 
 def click_btnespecificacoesjetta():
     root33 = Tk()
-    root33.geometry("750x680+1000+100")
+    root33.geometry("750x680+330+50")
     root33["bg"] = "darkslategray"
 
     lblespe1 = Label(root33, text="ESPECIFICAÇÕES DO CARRO: VOLKSWAGEN JETTA", font=("arial", 16, "bold"),
@@ -1755,7 +1755,7 @@ def click_btnespecificacoesjetta():
 
 def click_btnespecificacoescorolla():
     root32 = Tk()
-    root32.geometry("750x680+1000+100")
+    root32.geometry("750x680+330+50")
     root32["bg"] = "darkslategray"
 
     lblespe1 = Label(root32, text="ESPECIFICAÇÕES DO CARRO: FORD COROLLA", font=("arial", 16, "bold"),
@@ -1777,7 +1777,7 @@ def click_btnespecificacoescorolla():
 
 def click_btnespecificacoessandeiro():
     root31 = Tk()
-    root31.geometry("750x680+1000+100")
+    root31.geometry("750x680+330+50")
     root31["bg"] = "darkslategray"
 
     lblespe1 = Label(root31, text="ESPECIFICAÇÕES DO CARRO: RENAULT SANDEIRO", font=("arial", 16, "bold"),
@@ -1799,7 +1799,7 @@ def click_btnespecificacoessandeiro():
 
 def click_btnespecificacoesfocus():
     root30 = Tk()
-    root30.geometry("750x680+1000+100")
+    root30.geometry("750x680+330+50")
     root30["bg"] = "darkslategray"
 
     lblespe1 = Label(root30, text="ESPECIFICAÇÕES DO CARRO: FORD FOCUS", font=("arial", 16, "bold"),
@@ -1821,7 +1821,7 @@ def click_btnespecificacoesfocus():
 
 def click_btnespecificacoesversa():
     root29 = Tk()
-    root29.geometry("750x680+1000+100")
+    root29.geometry("750x680+330+50")
     root29["bg"] = "darkslategray"
 
     lblespe1 = Label(root29, text="ESPECIFICAÇÕES DO CARRO: NISSA VERSA", font=("arial", 16, "bold"),
@@ -1843,7 +1843,7 @@ def click_btnespecificacoesversa():
 
 def click_btnespecificacoesvoyage():
     root28 = Tk()
-    root28.geometry("750x680+1000+100")
+    root28.geometry("750x680+330+50")
     root28["bg"] = "darkslategray"
 
     lblespe1 = Label(root28, text="ESPECIFICAÇÕES DO CARRO: VOLKSWAGEN VOYAGE", font=("arial", 16, "bold"),
@@ -1864,7 +1864,7 @@ def click_btnespecificacoesvoyage():
 
 def click_btnespecificacoeshb20s():
     root27 = Tk()
-    root27.geometry("750x680+1000+100")
+    root27.geometry("750x680+330+50")
     root27["bg"] = "darkslategray"
 
     lblespe1 = Label(root27, text="ESPECIFICAÇÕES DO CARRO: HYUNDAI HB20 S", font=("arial", 16, "bold"),
@@ -1884,7 +1884,7 @@ def click_btnespecificacoeshb20s():
 
 def click_btnespecificacoesprisma():
     root26 = Tk()
-    root26.geometry("750x680+1000+100")
+    root26.geometry("750x680+330+50")
     root26["bg"] = "darkslategray"
 
     lblespe1 = Label(root26, text="ESPECIFICAÇÕES DO CARRO: CHEVROLET PRISMA", font=("arial", 16, "bold"),
@@ -1906,7 +1906,7 @@ def click_btnespecificacoesprisma():
 
 def especificacoeshb20():
     root25 = Tk()
-    root25.geometry("750x680+1000+100")
+    root25.geometry("750x680+330+50")
     root25["bg"] = "darkslategray"
 
     lblespe1 = Label(root25, text="ESPECIFICAÇÕES DO CARRO: HYUNDAI HB20", font=("arial", 16, "bold"),
@@ -1926,7 +1926,7 @@ def especificacoeshb20():
 
 def click_btnespecificacoesonix():
     root24 = Tk()
-    root24.geometry("750x680+1000+100")
+    root24.geometry("750x680+330+50")
     root24["bg"] = "darkslategray"
 
     lblespe1 = Label(root24, text="ESPECIFICAÇÕES DO CARRO: CHEVROLET ONIX", font=("arial", 16, "bold"),
@@ -1947,7 +1947,7 @@ def click_btnespecificacoesonix():
 
 def click_btnespecificacoesfordka():
     root23 = Tk()
-    root23.geometry("750x680+1000+100")
+    root23.geometry("750x680+330+50")
     root23["bg"] = "darkslategray"
 
     lblespe1 = Label(root23, text="ESPECIFICAÇÕES DO CARRO: FORD KA", font=("arial", 16, "bold"), bg="darkslategray",
@@ -1967,7 +1967,7 @@ def click_btnespecificacoesfordka():
 
 def click_btnespecificacoesgol():
     root22 = Tk()
-    root22.geometry("750x680+1000+100")
+    root22.geometry("750x680+330+50")
     root22["bg"] = "darkslategray"
 
     lblespe1 = Label(root22, text="ESPECIFICAÇÕES DO CARRO: WOLKSWAGEN GOL", font=("arial", 16, "bold"),
@@ -1988,7 +1988,7 @@ def click_btnespecificacoesgol():
 
 def click_btnespecificacoesfordkaH():
     root21 = Tk()
-    root21.geometry("750x680+1000+100")
+    root21.geometry("750x680+330+50")
     root21["bg"] = "darkslategray"
 
     lblespe1 = Label(root21, text="ESPECIFICAÇÕES DO CARRO: FORD KA HATCH", font=("arial", 16, "bold"),
@@ -2009,7 +2009,7 @@ def click_btnespecificacoesfordkaH():
 
 def click_btnespecificacoesmobi():
     root20 = Tk()
-    root20.geometry("750x680+1000+100")
+    root20.geometry("750x680+330+50")
     root20["bg"] = "darkslategray"
 
     lblespe1 = Label(root20, text="ESPECIFICAÇÕES DO CARRO: FIAT MOBI", font=("arial", 16, "bold"),
@@ -2029,7 +2029,7 @@ def click_btnespecificacoesmobi():
 
 def click_btnespecificacoesUno():
     root19 = Tk()
-    root19.geometry("750x680+1000+100")
+    root19.geometry("750x680+330+50")
     root19["bg"] = "darkslategray"
 
     lblespe1 = Label(root19, text="ESPECIFICAÇÕES DO CARRO: FIAT NOVO UNO", font=("arial", 16, "bold"),
@@ -2049,7 +2049,7 @@ def click_btnespecificacoesUno():
 
 def click_btnMOTO():
     root17 = Tk()
-    root17.geometry("750x680+1000+100")
+    root17.geometry("750x680+330+50")
     root17["bg"] = "darkslategray"
 
     # ================== LABELS ========================
@@ -2091,7 +2091,7 @@ def click_btnMOTO():
 
 def click_btnSUVGRANDE():
     root16 = Tk()
-    root16.geometry("750x680+1000+100")
+    root16.geometry("750x680+330+50")
     root16["bg"] = "darkslategray"
 
     # ================== LABELS ========================
@@ -2119,7 +2119,7 @@ def click_btnSUVGRANDE():
 
 def click_btnSUV():
     root15 = Tk()
-    root15.geometry("750x680+1000+100")
+    root15.geometry("750x680+330+50")
     root15["bg"] = "darkslategray"
 
     # ================== LABELS ========================
@@ -2147,7 +2147,7 @@ def click_btnSUV():
 
 def click_btnPICKUPS():
     root14 = Tk()
-    root14.geometry("750x680+1000+100")
+    root14.geometry("750x680+330+50")
     root14["bg"] = "darkslategray"
 
     # ================== LABELS ========================
@@ -2175,7 +2175,7 @@ def click_btnPICKUPS():
 
 def click_btnUTILITARIO():
     root13 = Tk()
-    root13.geometry("750x680+1000+100")
+    root13.geometry("750x680+330+50")
     root13["bg"] = "darkslategray"
 
     # ================== LABELS ========================
@@ -2203,7 +2203,7 @@ def click_btnUTILITARIO():
 
 def click_btnVANS():
     root12 = Tk()
-    root12.geometry("750x680+1000+100")
+    root12.geometry("750x680+330+50")
     root12["bg"] = "darkslategray"
 
     # ================== LABELS ========================
@@ -2231,7 +2231,7 @@ def click_btnVANS():
 
 def click_btnLUXO():
     root11 = Tk()
-    root11.geometry("750x680+1000+100")
+    root11.geometry("750x680+330+50")
     root11["bg"] = "darkslategray"
 
     # ================== LABELS ========================
@@ -2259,7 +2259,7 @@ def click_btnLUXO():
 
 def click_btnFULLSIZE():
     root10 = Tk()
-    root10.geometry("750x680+1000+100")
+    root10.geometry("750x680+330+50")
     root10["bg"] = "darkslategray"
 
     # ================== LABELS ========================
@@ -2301,7 +2301,7 @@ def click_btnFULLSIZE():
 
 def click_btnMEDIO():
     root9 = Tk()
-    root9.geometry("750x680+1000+100")
+    root9.geometry("750x680+330+50")
     root9["bg"] = "darkslategray"
 
     # ================== LABELS ========================
@@ -2322,7 +2322,7 @@ def click_btnMEDIO():
 
 def click_btnINTERMEDIARIOS():
     root8 = Tk()
-    root8.geometry("750x680+1000+100")
+    root8.geometry("750x680+330+50")
     root8["bg"] = "darkslategray"
 
     # ================== LABELS ========================
@@ -2371,7 +2371,7 @@ def click_btnINTERMEDIARIOS():
 
 def click_btnCOMPACTOS():
     root7 = Tk()
-    root7.geometry("750x680+1000+100")
+    root7.geometry("750x680+330+50")
     root7["bg"] = "darkslategray"
 
     # ================== LABELS ========================
@@ -2413,7 +2413,7 @@ def click_btnCOMPACTOS():
 
 def click_btnECONOMICOAR():
     root6 = Tk()
-    root6.geometry("750x680+1000+100")
+    root6.geometry("750x680+330+50")
     root6["bg"] = "darkslategray"
 
     # ================== LABELS ========================
@@ -2441,7 +2441,7 @@ def click_btnECONOMICOAR():
 
 def click_btnECONOMICO():
     root5 = Tk()
-    root5.geometry("750x680+1000+100")
+    root5.geometry("750x680+330+50")
     root5["bg"] = "darkslategray"
 
     # ================== LABELS ========================
@@ -2470,12 +2470,12 @@ def click_btnECONOMICO():
 def click_btnCARRO():
     global root4
     root4 = Tk()
-    root4.geometry("750x680+1000+100")
+    root4.geometry("750x680+330+50")
     root4["bg"] = "darkslategray"
 
     # ===================== LABELS ===============================
 
-    lblCATEGORIAS = Label(root4, text="CATEGORIAS", font=("arial", 20, "bold"), bg="darkslategray", fg="black").place(
+    lblCATEGORIAS = Label(root4, text="CATEGORIAS", font=("arial", 20, "bold"), bg="darkslategray", fg="white").place(
         x=295, y=100)
 
     # ===================== BOTÕES ===============================
@@ -2522,11 +2522,11 @@ def click_btnCONTINUAR():
     global root3
     janela.destroy()
     root3 = Tk()
-    root3.geometry("750x620+1000+100")
+    root3.geometry("750x620+330+50")
     root3["bg"] = "darkslategray"
 
-    lbl1 = Label(root3, text="ESCOLHA O TIPO DE VEICULO:", font=("arial", 16, "bold"), fg="black",
-                 bg="darkslategray").place(x=214, y=140)
+    lbl1 = Label(root3, text="ESCOLHA O TIPO DE VEICULO:", font=("arial", 23, "bold"), fg="white",
+                 bg="darkslategray").place(x=160, y=140)
     btnCarro = Button(root3, text="CARRO", font=("arial", 16, "bold"), width=16, bg="gray", fg="white",
                       command=click_btnCARRO).place(x=270, y=240)
     btnMoto = Button(root3, text="MOTO", font=("arial", 16, "bold"), width=16, bg="gray", fg="white",
@@ -2560,7 +2560,7 @@ def diferencahora():
 def click_btnComeçarAluguelUno():
     global root18
     root18 = Tk()
-    root18.geometry("750x680+1000+100")
+    root18.geometry("750x680+330+50")
     root18["bg"] = "darkslategray"
 
     def diferencahora():
@@ -2603,7 +2603,7 @@ global nome
 janela = Tk()
 cont = 0
 # LxA+(distancia da janela ate a lateral esquerda)+(distancia da janela ate o topo)
-janela.geometry("750x620+1000+100")
+janela.geometry("750x620+330+50")
 
 janela.title("Tela Inicial")
 janela["bg"] = "darkslategray"
@@ -2620,9 +2620,25 @@ lbltime = Label(janela, textvariable=time1, font=("arial", 14, "bold"), fg="blac
 lbltime.place(x=671, y=574)
 lbldate = Label(janela, textvariable=date1, font=("arial", 14, "bold"), fg="black", bg="darkslategray")
 lbldate.place(x=645, y=595)
-lbl0 = Label(janela, text="BEM VINDO, ESTAMOS PRONTOS PARA INICAR O ALUGUEL DO SEU CARRO!",
-             font=("times new roman", 13, "bold"), bg="darkslategray", fg="black")
+lbl0 = Label(janela, text="BEM VINDO !",
+             font=("Swis721 BlkOul BT", 23
+                   , "bold"), bg="darkslategray", fg="white")
+lbl1 = Label(janela, text="Nós estamos sempre visando uma prestação de serviço de qualidade, atendimento diferenciado",
+             font=("Bahnschrift", 13, "bold"), bg="darkslategray", fg="white")
+lbl2 = Label(janela, text="e experiência agradável aos nossos clientes, os nossos veículos vão te ajudar a chegar ao seu ",
+             font=("Bahnschrift", 13, "bold"), bg="darkslategray", fg="white")
+lbl3 = Label(janela, text="destino de maneira prática e segura. Para isso  o nosso codigo oferece possibilidades e opções ",
+             font=("Bahnschrift", 13, "bold"), bg="darkslategray", fg="white")
+lbl4 = Label(janela, text="ideias para cada trajeto e necessidade. São 34 automóveis disponíveis. Reserve o seu carro  ",
+             font=("Bahnschrift", 13, "bold"), bg="darkslategray", fg="white")
+lbl5 = Label(janela, text="através do nosso aplicativo, e aproveite ao máximo o seu passeio.",
+             font=("Bahnschrift", 13, "bold"), bg="darkslategray", fg="white")
 lbl0.place(x=80, y=100)
+lbl1.place(x=27, y = 150)
+lbl2.place(x=27, y = 180)
+lbl3.place(x = 27, y = 210)
+lbl4.place(x = 27, y = 240)
+lbl5.place(x = 27, y = 270)
 
 # ============= BOTÕES ===========================
 
